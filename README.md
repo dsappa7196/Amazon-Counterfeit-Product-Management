@@ -47,10 +47,9 @@ The system includes **14 fully normalized tables**, subtype/supertype hierarchie
 
 | File Name | Description |
 |-----------|-------------|
-| [counterfeit_schema.sql](./counterfeit_schema.sql) | SQL schema to create all 14 normalized tables |
-| [counterfeit_inserts.sql](./counterfeit_inserts.sql) | SQL INSERT statements for mock data |
-| [counterfeit_report.docx](./Final_Report_Project_864.docx) | Full project documentation with ERD, queries, and insights |
-| [counterfeit_eer.png](./EERD_Diagram.png) | Enhanced EER diagram image |
+| [counterfeit_schema.sql](https://github.com/dsappa7196/Amazon-Counterfeit-Product-Management/blob/main/Amazon_Counterfeit_Database_SQL_Script.sql) | SQL schema to create all 14 normalized tables and Complete code |
+| [counterfeit_report.docx](https://github.com/dsappa7196/Amazon-Counterfeit-Product-Management/blob/main/Database%20For%20Counterfiet%20Product%20Management.pdf) | Full project documentation with ERD, queries, and insights |
+| [counterfeit_ppt.pptx](https://github.com/dsappa7196/Amazon-Counterfeit-Product-Management/blob/main/ISYS864%20Presentation%202024.pptx) | Slide Deck of Presentation|
 | [README.md](./README.md) | This file |
 
 ---
